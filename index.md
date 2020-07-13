@@ -1,4 +1,4 @@
-# :wave: Welcome to my blog
+# Welcome to my blog
 
 I'm glad you are here. I plan to talk about ...
 
@@ -22,13 +22,6 @@ In the video you learned about a special file called the README.md. Here are a f
 - CONTRIBUTING.md: The `CONTRIBUTING.md` is used to describe the process for contributing to the repository. A link to the `CONTRIBUTING.md` file is shown anytime someone creates a new issue or pull request.
 - ISSUE_TEMPLATE.md: The `ISSUE_TEMPLATE.md` is another file you can use to pre-populate the body of an issue. For example, if you always need the same types of information for bug reports, include it in the issue template, and every new issue will be opened with your recommended starter text.
 
-<hr>
-</details>
-
-<details><summary>Using GitHub Issues</summary>
-
-## Using GitHub issues
-
 ### Using issues
 
 This is an issue <sup>[:book:](https://help.github.com/articles/github-glossary/#issue)</sup>: a place where you can have conversations about bugs in your code, code review, and just about anything else.
@@ -42,17 +35,7 @@ Issues are used to discuss ideas, enhancements, tasks, and bugs. They make colla
 - Creating a single, comprehensive record of how and why you made certain decisions
 - Allowing you to easily pull the right people and teams into a conversation with @-mentions
 
-:tv: [Video: Using issues](https://www.youtube.com/watch?v=Zhj46r5D0nQ)
-
-<hr>
-</details>
-
-<details><summary>Managing notifications</summary>
-<hr>
-
 ## Managing notifications
-
-:tv: [Video: Watching, notifications, stars, and explore](https://www.youtube.com/watch?v=ocQldxF7fMY)
 
 Once you've commented on an issue or pull request, you'll start receiving email notifications when there's activity in the thread.  
 
