@@ -4,34 +4,6 @@ I'm glad you are here. I plan to talk about ...
 
 To get started, I’ll guide you through some important first steps in coding and collaborating on GitHub.
 
-<details><summary>What is GitHub?</summary>
-<hr>
-
-## What is GitHub?
-
-I'm glad you asked! Many people come to GitHub because they want to contribute to open source <sup>[:book:](https://help.github.com/articles/github-glossary/#open-source)</sup> projects, or they're invited by teammates or classmates who use it for their projects. Why do people use GitHub for these projects?
-
-**At its heart, GitHub is a collaboration platform.**
-
-From software to legal documents, you can count on GitHub to help you do your best work with the collaboration and security tools your team needs. With GitHub, you can keep projects completely private, invite the world to collaborate, and streamline every step of your project.
-
-**GitHub is also a powerful version control tool.**
-
-GitHub uses Git <sup>[:book:](https://help.github.com/articles/github-glossary/#git)</sup>, the most popular open source version control software, to track every contribution and contributor <sup>[:book:](https://help.github.com/articles/github-glossary/#contributor)</sup> to your project--so you know exactly where every line of code came from.
-
-**GitHub helps people do much more.**
-
-GitHub is used to build some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics, but we'll dig into the rest later!
-
-:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
-<hr>
-</details>
-
-<details><summary>Exploring a GitHub repository</summary>
-<hr>
-## Exploring a GitHub repository
-
-:tv: [Video: Exploring a repository](https://www.youtube.com/watch?v=R8OAwrcMlRw)
 
 ### More features
 
